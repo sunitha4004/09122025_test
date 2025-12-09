@@ -1,4 +1,2 @@
 This is File A
-Iam Ravi
-Age is 40
-otr merge in fileA
+
